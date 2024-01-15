@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabindumre&label=Profile%20views&color=0e75b6&style=flat" alt="prabindumre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabindumre" alt="prabindumre" /></a> </p>
-<pre>
-- 🔭 I’m currently working on - [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)<br>
-                              - [100 Days of Python Learning](https://github.com/PrabinDumre/100_Days_Python_Learning)<br>
-                              - [C Programming Learning](https://github.com/PrabinDumre/C_Programming_Beginner_Codes)
-</pre>
+
+- 🔭 I’m currently working on [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)
 
 - 🌱 I’m currently learning **Data Analysis**
 
@@ -20,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/prabin-dumre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabin-dumre" height="30" width="40" /></a>
 <a href="https://kaggle.com/prabindumre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabindumre" height="30" width="40" /></a>
-<a href="https://fb.com/prabinrijal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabinrijal" height="30" width="40" /></a>
-<a href="https://instagram.com/prabinrijal1670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabinrijal1670" height="30" width="40" /></a>
+<a href="https://fb.com/prabin rijal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabin rijal" height="30" width="40" /></a>
+<a href="https://instagram.com/prabin_rijal167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabin_rijal167" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prabindumre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabindumre" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prabindumre1670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prabindumre1670" height="30" width="40" /></a>
 </p>
